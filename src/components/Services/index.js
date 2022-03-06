@@ -73,7 +73,7 @@ const Services = () => {
             <ServicesH2>Portfolio website </ServicesH2>
             <ServicesP>React, JavaScript, JSX, Hooks, styled-components,react-scroll.</ServicesP>
             <Button primary="true" dark="false">
-            <ButtonLink href="https://github.com/Simran145678/furniture-store-project-CSS" target="_blank">
+            <ButtonLink href="https://github.com/Simran145678/react-portfolio" target="_blank">
             Source Code </ButtonLink>
         </Button>
         
