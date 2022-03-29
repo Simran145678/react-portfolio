@@ -1,3 +1,20 @@
+# Hie There!
+![Untitled](https://user-images.githubusercontent.com/67065873/160643028-1a449001-d3f9-4f9a-a18b-f9a880c2241e.png)
+
+
+## Deployed URL
+https://festive-sammet-bc492a.netlify.app/
+
+## Description
+* This website is built in React.js.
+* It is deployed on netlify.
+* For styling "styled-components" library is used.
+
+## Other Projects
+* https://github.com/Simran145678/Contact-Keeper
+* https://github.com/Simran145678/E-commerce
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
